@@ -1,6 +1,4 @@
-# Team String
-## Retrieval Guided Code Generation Leveraging the Planning Capabilities of LLMs
-### Advaith Malladi, Darur Lakshmipati Balaji, Abhinav Marri
+
 
 #### Directory Structure
 ```
